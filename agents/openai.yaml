@@ -1,0 +1,6 @@
+interface:
+  display_name: "数学建模模型导航"
+  short_description: "根据研究目标与数据结构筛选模型，并核对假设、误差、诊断与验证"
+  default_prompt: "使用 $mathematical-modeling-navigator 根据我的研究目标和数据结构推荐候选模型。"
+policy:
+  allow_implicit_invocation: true
